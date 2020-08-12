@@ -1,0 +1,239 @@
+# Profile section
+skills:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - python
+  - git-alt
+  - github
+  - gitlab
+  - gitkraken
+  - selenium
+
+profile:
+  first_name: Manjula
+  last_name: Siddappa Thimmareddy
+  # picture: https://rodolfoferro.xyz/assets/images/profile.jpg   # Hosted picture
+  picture: static/img/manju_image.gif  # Local picture
+  contact:
+    address_one: Grove court,Novi,MI
+    address_two:
+    phone: (2623456789)
+  email: manjujnv87@gmail.com
+  description: >
+    I am a science enthusiast, My technical expertise in quality assurance and automation, seeking for an opportunity to showcase my skills where my hard work and talent is rewarded and to help the
+    organization to provide high quality and cost effective solutions for the customer.
+
+
+# Social section
+social:
+  website: https://rodolfoferro.xyz
+  github: https://github.com/mthimmareddy/
+  linkedin: https://www.linkedin.com/in/manjula-thimmareddy-31a8b062/
+
+
+
+# Experience section
+experience:
+  item0:
+    position: Senior Quality Engineer
+    company: Netskope India
+    from: December 2018
+    to: Jan 2019
+    description: >
+        • Development of a framework which interacts with all the components and execute end to end security flow.
+        • Involved in automating the security network products such as Provisioner, nsclient, webUI
+        • Automating the Regression cases of nsclient and provisioner using the REST API calls.
+        • Automation the WebUI cases using the Selenium and integrating the scripts with framework.
+        • Automating the Saas Apps such as office365 apps using Sikuli.
+
+    link: http://codeandomexico.org/
+  item1:
+    position: Full stack developer
+    company: Bharath petroleum limitied
+    from: Jan 2016
+    to: September 2018
+    description: >
+          • Requirement analysis and high level prototype design.
+          • Responsible for the designing the both frontend and backend development.
+          • Involved in both testing and development of each module.
+  item2:
+    position: R&D Engineer
+    company: Nokia Networks and Verizon
+    from: Nov 2014
+    to: March 2015
+    description: >
+        • Responsible for the automation of NetAct with Load balancer such as integrating the load Balancer with NetAct, performing Fault management, Configuration management and Performance management operations in NetAct.
+        • Develop test framework using   Selenium Web driver and Robot Framework.
+        • Integration with Jenkins for nightly execution.
+        • Responsible for Execution of test cases on load balancer and Verification and Validation of test cases against requirement by analyzing the SUT logs.
+        • Execution of cases for the P6 and P7 releases and reporting the Execution status
+        • Analysis of nightly execution and prepare bug Report.
+
+    link: http://www.nullsec.site
+  item3:
+    position: Software Engineer
+    company: Aricent
+    from: June 2011
+    to: Oct 2014
+    description: >
+        • Responsible Feature testing of TAS for features such as Registration, Basic-call, Call-Forwarding, Translation, Call barring, CS-fallback and other supplementary services.
+        • Involved in Identifying manual test cases for automation
+        • Involved in automating the test cases in EAST and SIPP.
+        • Responsible for Execution of test cases on EAST server and Verification and Validation of test cases against requirement by analyzing the SUT logs.
+        • Execution of Sanity suites for the new releases and reporting the Execution status.
+
+
+    link: https://medium.com/omdena/building-ai-for-good-by-the-people-for-the-people-d98ad78b5001
+
+
+# Education section
+education:
+  item1:
+    institution: from VTU university,BMS college of Engineering,Bangalore.
+    program: MCA (Master of Computer Applications) from VTU university,BMS college of Engineering,Bangalore.
+    description: Attendee to workshops on optimization, deep learning and reinforcement learning. Event organized by the National Consortium on Science and Technology in Mexico.
+    from: July 2007
+    to: June 2010
+  item2:
+    institution: Kuvempu University
+    program: Bachelor of Sciene
+    description:
+    from: July 2004
+    to: June 2007
+  item3:
+    institution: Jawahar Navodaya Vidyalaya
+    program: Schooling from 6 th to 12th Grade
+    from: June 1996
+    to: August 2004
+
+
+
+
+
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - python
+  - github
+  - jenkin
+  - google
+  - google-drive
+  - html5
+  - bootstrap
+extra_skills:
+  - Possess over 7+ years of IT industry experience in Software Testing & Development with a wide variety of projects and environments. Experience in the Automation development of Client/Server and Web-Based Applications.
+  - Well versed with all stages of Software Development Life Cycle (SDLC) and Software Test Life Cycle (STLC).
+  - Good Expertise in Telecom, networking and e-commerce Business Domains.
+  - Extensively used Python language and pytest/nose framework .Used Integration tools Jenkins and Bamboo for running test on nightly basis automatically.
+  - Hands on experience in preparing Test plans, Test cases, Automated Tests and Test Data.
+  - Experience in Testing the Functionality, Agile and Regression.
+  - Experience API testing Web Services (REST) and web-based enterprise applications on different browsers using Selenium.
+  - Extensively used SQL Queries in SQL Tables in order to view successful transaction of data.
+  - Involved in web development using Flask,SQL, HTML ,CSS
+  - Having experience in  AutoIt and Sikuli tools to support Windows based application.
+  - Having knowledge in Linux/Unix operating system.
+  - Involving with Mobile Application Automation (Android ) using Appium tools.
+  - Good Communication skills and ability to work under pressure.
+
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: TEDxUNAMLeón
+    workshop: AI in modern times, February 2020.
+    material:
+    link: https://www.ted.com/tedx/events/35293
+  item1:
+    event: PyCon Colombia 2020
+    workshop: 'Workshop – DLaaS: Building cloud-based intelligent solutions, February 2020.'
+    material: https://github.com/RodolfoFerro/PyConCo20
+    link: https://www.pycon.co/ponentes/rodolfo-ferro/
+  item2:
+    event: International Meeting on Artificial Intelligence and its Applications (RIIAA) 2.0.
+    workshop: Workshop – Deep Learning as a Service (DLaaS), August 2019.
+    material: https://github.com/RodolfoFerro/RIIAA19-DLaaS
+    link: https://riiaa.org
+  item3:
+    event: LAB León Web Dev Crash Course 2019.
+    workshop: Crash Course – Introduction to Web Development with Python and Flask, August 2019.
+    material: https://github.com/RodolfoFerro/Flask101
+    link: https://flask101.glitch.me
+  item4:
+    event: DevDay León 2019 by Hackademy.
+    workshop: Workshop – (AI) API development with Python, August 2019.
+    material: https://github.com/RodolfoFerro/PythonBaseAPI
+    link:
+  item5:
+    event: Clubes de Ciencia México 2019.
+    workshop: Workshop – Revealing the Hidden Hyperspectrum with Artificial Neurons, July 2019.
+    material: https://rodolfoferro.xyz/hyperspectrum/
+    link:
+  item6:
+    event: DevDay Mérida 2019.
+    workshop: Workshop – Artificial Intelligence with Python, July 2019.
+    material: https://github.com/RodolfoFerro/DevDayMid2019
+    link:
+  item7:
+    event: Talent Land 2019.
+    workshop: Talk – A.I. in modern times, April 2019.
+    material:
+    link: https://jaliscotalentland2019.sched.com/event/MzAs/inteligencia-artificial-en-tiempos-modernos
+  item8:
+    event: PythonDay México 2018.
+    workshop: Talk – Data Science with Python, December 2018.
+    material: https://github.com/RodolfoFerro/DataSciPy
+    link:
+  item9:
+    event: PythonDay México 2018.
+    workshop: Workshop – Machine Learning as a Service (MLaaS), November 2018.
+    material: https://github.com/RodolfoFerro/MLaaS
+    link:
+  item10:
+    event: HERE Hackathon at Technological University of Leon.
+    workshop: Mentor on the event. Talk – Integration of Technological Solutions, November 2018.
+    material: https://github.com/RodolfoFerro/HereHackathon
+    link:
+  item11:
+    event: 6th. International Conference in Software Engineering Research and Innovation (CONISOFT).
+    workshop: Workshop – Introduction to Neural Networks with Keras, October 2018.
+    material: https://github.com/RodolfoFerro/CONISOFT2018
+    link: http://conisoft.org/2018/public/
+  reference: https://rodolfoferro.xyz/resume/
+
+
+# Projects section
+projects:
+  item1:
+    title: FarmerDirect
+    subtitle: A resume template built with Flask
+    description: An easy-to-configure simple resume template built with Flask and Bootstrap.
+    link: https://servinglocalindia.pythonanywhere.com
+    github: https://github.com/RodolfoFerro/flask-resume-template/
+    img: Farmdirect.png
+    tags: [Flask, Python, Bootstrap,HTML,CSS,SQL]
+  item2:
+    title: Resume with Flask
+    subtitle: A resume template built with Flask
+    description: A set of Google Colab notebooks and a Flask base API to learn and serve Deep Learning. Prepared for my workshop at RIIAA 2.0.
+    link: https://rodolfoferro.xyz/RIIAA19-DLaaS/
+    github: https://github.com/RodolfoFerro/RIIAA19-DLaaS
+    img: farmdirect2.png
+    tags: [Python, Tensorflow 2.0, Keras, Deep Learning]
+  item3:
+    title: impipes
+    subtitle: Python package
+    description: A Python package to build image pipelines in a simple way. Preprocess data to feed neural networks in an easier way.
+    link: https://impipes.readthedocs.io/en/latest/
+    github: https://github.com/RodolfoFerro/impipes
+    img: farmdirect3.png
+    tags: [Python, PyPI, Images, Data Preprocessing, Documentation]
+
+
+
+# Certifications and awards section
+awards:
+  - 'Winner – #TFWorld TF 2.0 Challenge – TensorFlow at Devpost 2020'
+  - AWS cloud architech certification
+
